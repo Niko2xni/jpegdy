@@ -1,0 +1,84 @@
+{
+  "jeopardy_game": [
+    {
+      "board_number": 1,
+      "categories": {
+        "Art": [
+          { "points": 200, "question": "In digital design, the acronym \"RGB\" stands for.", "answer": "Red, Green, Blue" },
+          { "points": 400, "question": "This file format, often associated with the \"JPEG\" organization's name, is a lossy compression method for digital images.", "answer": ".jpg or .jpeg" },
+          { "points": 600, "question": "This famous portrait by Leonardo da Vinci is known for the subject's mysterious smile and is housed in the Louvre Museum.", "answer": "The Mona Lisa" },
+          { "points": 800, "question": "It is a drawing of a person that focuses specifically on their face.", "answer": "A Portrait" },
+          { "points": 1000, "question": "The famous painting features a group of people sitting at a long table for their final meal together.", "answer": "The Last Supper" }
+        ],
+        "Games": [
+          { "points": 200, "question": "In the game Valorant, she is the name of the Filipino agent who possesses electricity-based abilities.", "answer": "Neon" },
+          { "points": 400, "question": "In the Super Mario series, he is Mario's taller, younger brother who wears green.", "answer": "Luigi" },
+          { "points": 600, "question": "This term refers to \"non-playable characters\" in a video game that provide quests or dialogue.", "answer": "NPC" },
+          { "points": 800, "question": "In Resident Evil Requiem, this character is an FBI analyst and the daughter of a survivor from the original Raccoon City incident.", "answer": "Grace Ashcroft" },
+          { "points": 1000, "question": "This 2024 sequel to a popular cooperative puzzle game features more levels and more chaos than the original, requiring 2 to 8 players to find a key.", "answer": "Pico Park 2" }
+        ],
+        "Trends or Memes": [
+          { "points": 200, "question": "The Gen-Z slang term used to describe someone who is \"delusional\" about a situation, often in a humorous way.", "answer": "Delulu" },
+          { "points": 400, "question": "This term refers to someone having a \"vibe\" or \"energy\" that can be gained or lost through cool or embarrassing actions.", "answer": "Aura" },
+          { "points": 600, "question": "A Gen-Z term derived from the word \"charisma\".", "answer": "Rizz" },
+          { "points": 800, "question": "This phrase became a popular internet meme in 2026, often used to dismiss uninspired or repetitive machine-generated content.", "answer": "\"Your AI Slop Bores Me\"" },
+          { "points": 1000, "question": "This two-number sequence became a viral \"brainrot\" catchphrase in 2025, often shouted by Gen Alpha and Gen Z.", "answer": "6-7 or Six-Seven" }
+        ],
+        "Cre8Con": [
+          { "points": 200, "question": "It is the booth where people can claim prizes.", "answer": "Redeem booth" },
+          { "points": 400, "question": "This booth lets people have art trades with JPEG artists.", "answer": "Art trade booth" },
+          { "points": 600, "question": "It is the name of this booth.", "answer": "Jeopardy Booth" },
+          { "points": 800, "question": "The theme for this year's Cre8Con.", "answer": "JPEG Core" },
+          { "points": 1000, "question": "It is the game projected in the Game booth.", "answer": "Smash Bros" }
+        ],
+        "JPEG": [
+          { "points": 200, "question": "JPEG's 2nd General Assembly was done on this platform.", "answer": "Roblox" },
+          { "points": 400, "question": "The theme for JPEG's 2nd General Assembly.", "answer": "Alien Stage" },
+          { "points": 600, "question": "The legendary mascot of JPEG.", "answer": "Penny" },
+          { "points": 800, "question": "A multimedia-centered academic organization founded in 2020.", "answer": "JPEG" },
+          { "points": 1000, "question": "The organization that JPEG did a collaboration with.", "answer": "ARA or Anime and Recreational Association" }
+        ]
+      }
+    },
+    {
+      "board_number": 2,
+      "categories": {
+        "Games": [
+          { "points": 200, "question": "This game is known for its versatility in gaming content and game design despite its initial blocky appearance.", "answer": "Roblox" },
+          { "points": 400, "question": "She is the newest protagonist in the latest installment of the Resident Evil Franchise; Resident Evil 9: Requiem.", "answer": "Grace Ashcroft" },
+          { "points": 600, "question": "This MOBA game is often seen as the embodiment of pure toxicity, gamer rage and overall negativity.", "answer": "League of Legends" },
+          { "points": 800, "question": "This game was inspired by The Legend of Zelda: Breath of the Wild and the first of its kind in the anime open-world genre.", "answer": "Genshin Impact" },
+          { "points": 1000, "question": "This video game recently had a movie adaptation that was personally funded by the small youtuber Markiplier.", "answer": "Iron Lung" }
+        ],
+        "Trends or Memes": [
+          { "points": 200, "question": "This word was turned to a slang that Filipinos mostly used when someone sounds unrealistic or too hopeful.", "answer": "Delulu" },
+          { "points": 400, "question": "This status is now often used to describe someone who is too engaged or too skilled or has spent too much time in a video game.", "answer": "Unemployed" },
+          { "points": 600, "question": "A popular pair of numbers.", "answer": "67" },
+          { "points": 800, "question": "A recent trend that surged in early 2026 that often uses an image containing a 'cortisol spike'.", "answer": "Low-Cortisol" },
+          { "points": 1000, "question": "What is the motor-sport where the viral song 33 Max Verstappen was based off.", "answer": "Formula 1/F1" }
+        ],
+        "Art": [
+          { "points": 200, "question": "The Italian painter that had painted the Mona Lisa.", "answer": "Leonardo di ser Piero da Vinci" },
+          { "points": 400, "question": "The Japanese manga artist that made one of most popular anime and manga series of all time; Dragon Ball.", "answer": "Akira Toriyama" },
+          { "points": 600, "question": "Developed and published by Adobe for video editing.", "answer": "Adobe Premiere Pro" },
+          { "points": 800, "question": "This graphic design style emphasizes raw and minimalistic aesthetics, often characterized by bold typography.", "answer": "Brutalism" },
+          { "points": 1000, "question": "A video editing software often compared to Adobe Premiere Pro and shares the namesake of Leonardo da Vinci.", "answer": "DaVinci Resolve" }
+        ],
+        "Cre8Con": [
+          { "points": 200, "question": "This is where the 2026 Cre8Con is being held.", "answer": "Congregating Area, Casal" },
+          { "points": 400, "question": "This is the amount of activity booths found within the Cre8Con.", "answer": "9 booths" },
+          { "points": 600, "question": "This booth offers the hit game Jeopardy.", "answer": "Jeopardy Booth" },
+          { "points": 800, "question": "This booth contains a small mini game where the player has to guess a character.", "answer": "Guess the Character booth" },
+          { "points": 1000, "question": "They are the ones in charge of the game you're playing right now.", "answer": "Marich or Niko" }
+        ],
+        "JPEG": [
+          { "points": 200, "question": "JPEG's 1st ever mascot.", "answer": "Penny" },
+          { "points": 400, "question": "The theme of the event that JPEG had a collaboration with ARA.", "answer": "Frieren: Beyond a Journey's End" },
+          { "points": 600, "question": "The name of the event that JPEG had a collaboration with ARA.", "answer": "ARAFest" },
+          { "points": 800, "question": "They are the sister organization of JPEG.", "answer": "Anime and Recreation Association" },
+          { "points": 1000, "question": "This is the phrase or hashtag always included in the publication materials of JPEG.", "answer": "We Stand As One" }
+        ]
+      }
+    }
+  ]
+}
