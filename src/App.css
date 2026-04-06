@@ -439,12 +439,18 @@
   border-radius: 18px;
   padding: 14px;
   background: var(--panel);
+  display: flex;
+  flex-direction: column;
+  height: clamp(240px, 34vh, 360px);
+  min-height: 0;
+  overflow: hidden;
 }
 
 .board-insights-grid {
   display: grid;
   grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.9fr);
   gap: 14px;
+  align-items: start;
 }
 
 .player-scoreboard-card {
@@ -548,6 +554,10 @@
   margin: 0;
   color: #2f4699;
   font-weight: 700;
+  flex: 1;
+  display: grid;
+  place-items: center;
+  text-align: center;
 }
 
 .answer-log-list {
@@ -556,6 +566,11 @@
   list-style: none;
   display: grid;
   gap: 8px;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding-right: 4px;
+  scrollbar-gutter: stable;
 }
 
 .answer-log-item {
